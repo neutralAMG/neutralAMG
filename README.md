@@ -39,6 +39,15 @@ Idea > Desing Structure > Pseudocode > Implementation > Testing > Upload.
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="VisualStudioCode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br/>
+
+## 📊 GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=neutralAMG&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neutralAMG&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <!--
 **neutralAMG/neutralAMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
