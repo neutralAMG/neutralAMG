@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Alejandro Moscoso
+## 👋 My name is Alejandro Moscoso
 
 **`Digital Craftman (Developer/ Problem Solver)`**
 
@@ -7,6 +7,9 @@ All my projects stem from a personal need that I want to solve, a desire to impr
 
 Idea > Desing Structure > Pseudocode > Implementation > Testing > Upload.
 
+## ☝️🤓 Languages, FrameWorks, Libraries  
+
+## 🧰 Tools
 
 <!--
 **neutralAMG/neutralAMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
